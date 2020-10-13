@@ -1,0 +1,11 @@
+server:
+  port: 8762
+
+aws:
+  dynamodb:
+    access:
+      key:
+      secret:
+    region: eu-west-1
+    end-point:
+      url: http://localhost:8000/

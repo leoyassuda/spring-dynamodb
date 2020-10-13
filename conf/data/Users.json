@@ -1,0 +1,58 @@
+{
+  "Users": [
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "0cb102c6-e3c8-4aa7-bdc2-cd76de3b9527"
+          },
+          "email": {
+            "S": "leo.yassuda@rouf.com"
+          },
+          "firstname": {
+            "S": "Leo"
+          },
+          "lastname": {
+            "S": "Yassuda"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "b5a7468b-e91d-40db-a576-333d5ceb509d"
+          },
+          "email": {
+            "S": "gui.alves@rouf.com"
+          },
+          "firstname": {
+            "S": "Gui"
+          },
+          "lastname": {
+            "S": "Alves"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "id": {
+            "S": "2bf06c26-295c-4bf0-9b4e-cb285a602148"
+          },
+          "email": {
+            "S": "omar.buchain@rouf.com"
+          },
+          "firstname": {
+            "S": "Omar"
+          },
+          "lastname": {
+            "S": "Buchain"
+          }
+        }
+      }
+    }
+  ]
+}
